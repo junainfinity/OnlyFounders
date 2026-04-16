@@ -1,9 +1,9 @@
-Module 1: Opening & Setup|https://gamma.app/docs/3rji9c5tecjp1t4|Module-1-Opening-and-Setup.pdf
-Module 2: Find Your Idea|https://gamma.app/docs/izgeuy7os5qvow4|Module-2-Find-Your-Idea.pdf
-Module 3: Build Your Brand|https://gamma.app/docs/5ghv2p8whf1xlyp|Module-3-Build-Your-Brand.pdf
-Module 4: Build Your Website|https://gamma.app/docs/d6n3v22nm70j302|Module-4-Build-Your-Website.pdf
-Module 5: Deploy AI Chatbot|https://gamma.app/docs/mve48quel8t1q0k|Module-5-Deploy-AI-Chatbot.pdf
-Module 6: Voice AI & Call Center|https://gamma.app/docs/33czlvs7zq5jg7q|Module-6-Voice-AI-and-Call-Center.pdf
-Module 7: Growth Engine|https://gamma.app/docs/5lk0h7pk5hf69wt|Module-7-Growth-Engine.pdf
-Module 8: Payments & Operations|https://gamma.app/docs/lr18si063wsvyc4|Module-8-Payments-and-Operations.pdf
-Module 9: Closing & Launch|https://gamma.app/docs/73dts8oht1n55wj|Module-9-Closing-and-Launch.pdf
+Opening - Welcome and Setup|https://gamma.app/docs/uzzttwwy123l5kp|Opening - Welcome and Setup.pdf
+Module 1 - Find Your Idea|https://gamma.app/docs/tgt48t017frqoy3|Module 1 - Find Your Idea.pdf
+Module 2 - Build Your Brand|https://gamma.app/docs/r5znwnfxniaa6cg|Module 2 - Build Your Brand.pdf
+Module 3 - Build Your Website|https://gamma.app/docs/6vl5x8pj0dncsm8|Module 3 - Build Your Website.pdf
+Module 4 - Deploy AI Chatbot|https://gamma.app/docs/rv9iysz6zf5c1no|Module 4 - Deploy AI Chatbot.pdf
+Module 5 - Voice AI and Call Center|https://gamma.app/docs/zxp22gkwtsetsbu|Module 5 - Voice AI and Call Center.pdf
+Module 6 - Growth Engine|https://gamma.app/docs/6cqcvd5h8tnfz8m|Module 6 - Growth Engine.pdf
+Module 7 - Payments and Operations|https://gamma.app/docs/4y88fsq4utgkxwe|Module 7 - Payments and Operations.pdf
+Closing - Launch Plan|https://gamma.app/docs/g9zrx0urn3yp1ry|Closing - Launch Plan.pdf
